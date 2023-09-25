@@ -1,0 +1,7 @@
+numpy
+pandas
+flask
+flask_mysql
+scikit-learn
+seaborn
+pymysql
